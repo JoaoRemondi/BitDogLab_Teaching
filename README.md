@@ -57,7 +57,7 @@ Aprender a ler valores de sensores analógicos.
 3. Criar um alerta sonoro quando a temperatura ultrapassar um limite  
    [Sensores.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Sensores.py)
 
-##**Controle de Dispositivos com PWM**
+## **Controle de Dispositivos com PWM**
 
 **Objetivo:**
 Utilizar a modulação por largura de pulso (PWM) para controlar dispositivos.
@@ -69,7 +69,7 @@ Utilizar a modulação por largura de pulso (PWM) para controlar dispositivos.
 3 - Criar um efeito de "respiração" com o LED
     [Respiração.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Respira%C3%A7%C3%A3o.py)
 
-##**Comunicação serial**
+## **Comunicação serial**
 
 **Objetivo:**
 Implementar comunicação serial para enviar e receber informações.
@@ -80,7 +80,7 @@ Implementar comunicação serial para enviar e receber informações.
 3 - Enviar dados via serial ou Bluetooth (se disponível).
     ([Bluetooth.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%205/Bluetooth.py) )
 
-##**Introdução ao Uso de Displays**
+## **Introdução ao Uso de Displays**
 
 **Objetivo:**
 Aprender a utilizar displays para mostrar informações.
@@ -89,7 +89,7 @@ Aprender a utilizar displays para mostrar informações.
 1 - Exibir texto e gráficos no display OLED.
 2 - Criar um relógio digital simples.
 
-##**Trabalhando com protocolo I2c**
+## **Trabalhando com protocolo I2c**
 
 **Objetivo:**
 Ler e se comunicar com sensores e atuadores fazendo uso de I2C.
@@ -99,7 +99,7 @@ Ler e se comunicar com sensores e atuadores fazendo uso de I2C.
 2 - Configurar leitura de sensores externos usando I2C.
 3 - Armazenar dados em uma memória externa.
 
-##**Criação de Projetos Interativos**
+## **Criação de Projetos Interativos**
 
 **Objetivo:**
 Desenvolver projetos que respondam a interações do usuário.
@@ -109,7 +109,7 @@ Desenvolver projetos que respondam a interações do usuário.
 2 - Desenvolver uma estação meteorológica que exibe dados de sensores.
 3 - Implementar um alarme que responde a mudanças ambientais.
 
-##**Introdução à Programação Orientada a Objetos**
+## **Introdução à Programação Orientada a Objetos**
 
 **Objetivo:**
 Aplicar conceitos de programação orientada a objetos em MicroPython.
@@ -119,7 +119,7 @@ Aplicar conceitos de programação orientada a objetos em MicroPython.
 2 - Organizar o código de forma modular.
 3 - Reutilizar código em diferentes projetos.
 
-##**Projeto Final: Integração de Múltiplos Componentes**
+## **Projeto Final: Integração de Múltiplos Componentes**
 
 **Objetivo:**
 Integrar diversos componentes e conceitos aprendidos em um projeto final.
