@@ -63,11 +63,11 @@ Aprender a ler valores de sensores analógicos.
 Utilizar a modulação por largura de pulso (PWM) para controlar dispositivos.
 
 **Atividades:**
-1 - Controlar o brilho de um LED RGB
-    [Led_Control.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Led_Control.py)
-2 - Ajustar a velocidade de um motor DC (se disponível).
-3 - Criar um efeito de "respiração" com o LED
-    [Respiração.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Respira%C3%A7%C3%A3o.py)
+1. Controlar o brilho de um LED RGB
+   [Led_Control.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Led_Control.py)
+2. Ajustar a velocidade de um motor DC (se disponível).
+3. Criar um efeito de "respiração" com o LED
+   [Respiração.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Respira%C3%A7%C3%A3o.py)
 
 ## **Comunicação serial**
 
@@ -75,10 +75,10 @@ Utilizar a modulação por largura de pulso (PWM) para controlar dispositivos.
 Implementar comunicação serial para enviar e receber informações.
 
 **Atividades:**
-1 - Conectar e ler dados de um sensor de umidade e temperatura.
-2 - Exibir os dados no display OLED.
-3 - Enviar dados via serial ou Bluetooth (se disponível).
-    ([Bluetooth.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%205/Bluetooth.py) )
+1. Conectar e ler dados de um sensor de umidade e temperatura.
+2. Exibir os dados no display OLED.
+3. Enviar dados via serial ou Bluetooth (se disponível).
+   ([Bluetooth.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%205/Bluetooth.py) )
 
 ## **Introdução ao Uso de Displays**
 
@@ -86,8 +86,8 @@ Implementar comunicação serial para enviar e receber informações.
 Aprender a utilizar displays para mostrar informações.
 
 **Atividades:**
-1 - Exibir texto e gráficos no display OLED.
-2 - Criar um relógio digital simples.
+1. Exibir texto e gráficos no display OLED.
+2. Criar um relógio digital simples.
 
 ## **Trabalhando com protocolo I2c**
 
@@ -95,9 +95,9 @@ Aprender a utilizar displays para mostrar informações.
 Ler e se comunicar com sensores e atuadores fazendo uso de I2C.
 
 **Atividades:**
-1 - Entender como funciona a comunicação via I2C.
-2 - Configurar leitura de sensores externos usando I2C.
-3 - Armazenar dados em uma memória externa.
+1. Entender como funciona a comunicação via I2C.
+2. Configurar leitura de sensores externos usando I2C.
+3. Armazenar dados em uma memória externa.
 
 ## **Criação de Projetos Interativos**
 
@@ -105,9 +105,9 @@ Ler e se comunicar com sensores e atuadores fazendo uso de I2C.
 Desenvolver projetos que respondam a interações do usuário.
 
 **Atividades:**
-1 - Criar um jogo simples utilizando botões e o display.
-2 - Desenvolver uma estação meteorológica que exibe dados de sensores.
-3 - Implementar um alarme que responde a mudanças ambientais.
+1. Criar um jogo simples utilizando botões e o display.
+2. Desenvolver uma estação meteorológica que exibe dados de sensores.
+3. Implementar um alarme que responde a mudanças ambientais.
 
 ## **Introdução à Programação Orientada a Objetos**
 
@@ -115,9 +115,9 @@ Desenvolver projetos que respondam a interações do usuário.
 Aplicar conceitos de programação orientada a objetos em MicroPython.
 
 **Atividades:**
-1 - Criar classes para sensores e atuadores.
-2 - Organizar o código de forma modular.
-3 - Reutilizar código em diferentes projetos.
+1. Criar classes para sensores e atuadores.
+2. Organizar o código de forma modular.
+3. Reutilizar código em diferentes projetos.
 
 ## **Projeto Final: Integração de Múltiplos Componentes**
 
@@ -125,7 +125,7 @@ Aplicar conceitos de programação orientada a objetos em MicroPython.
 Integrar diversos componentes e conceitos aprendidos em um projeto final.
 
 **Atividades:**
-1 - Planejar e desenvolver um projeto que utilize múltiplos sensores, atuadores e displays.
-2 - Apresentar o projeto para a turma, explicando o funcionamento e o código.
-3 - Discutir possíveis melhorias e expansões para o projeto.
+1. Planejar e desenvolver um projeto que utilize múltiplos sensores, atuadores e displays.
+2. Apresentar o projeto para a turma, explicando o funcionamento e o código.
+3. Discutir possíveis melhorias e expansões para o projeto.
 
