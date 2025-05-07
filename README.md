@@ -31,65 +31,100 @@ Apresentar a BitDogLab e o ambiente de programação MicroPython.
 3. Criar condições de troca de cor a partir dos botões  
    ([Lição 1.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%201/Li%C3%A7%C3%A3o%201.py))
    
-**Entradas e Saídas Digitais**
-Objetivo: Compreender o funcionamento de entradas e saídas digitais.
-Atividades:
-1 - Ler o estado de um botão [Botões.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Bot%C3%B5es.py) .
-2 - Controlar um buzzer para emitir sons [Buzzers.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Buzzers.py) .
-3 - Combinar botões e LEDs para criar um semáforo simples [Semáforo.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Sem%C3%A1foro.py) .
+## **Entradas e Saídas Digitais**
 
-**Introdução a Sensores Analógicos**
-Objetivo: Aprender a ler valores de sensores analógicos.
-Atividades:
-1 - Conectar e ler valores de um sensor de temperatura [Buzzer.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Buzzer.py) .
-2 - Exibir os valores no display OLED [Oled.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Oled.py) .
-3 - Criar um alerta sonoro quando a temperatura ultrapassar um limite [Sensores.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Sensores.py) .
+**Objetivo:**  
+Compreender o funcionamento de entradas e saídas digitais.
 
-**Controle de Dispositivos com PWM**
-Objetivo: Utilizar a modulação por largura de pulso (PWM) para controlar dispositivos.
-Atividades:
-1 - Controlar o brilho de um LED RGB [Led_Control.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Led_Control.py) .
+**Atividades:**  
+1. Ler o estado de um botão  
+   [Botões.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Bot%C3%B5es.py)  
+2. Controlar um buzzer para emitir sons  
+   [Buzzers.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Buzzers.py)  
+3. Combinar botões e LEDs para criar um semáforo simples  
+   [Semáforo.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Sem%C3%A1foro.py)
+
+## **Introdução a Sensores Analógicos**
+
+**Objetivo:**  
+Aprender a ler valores de sensores analógicos.
+
+**Atividades:**  
+1. Conectar e ler valores de um sensor de temperatura  
+   [Buzzer.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Buzzer.py)  
+2. Exibir os valores no display OLED  
+   [Oled.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Oled.py)  
+3. Criar um alerta sonoro quando a temperatura ultrapassar um limite  
+   [Sensores.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Sensores.py)
+
+##**Controle de Dispositivos com PWM**
+
+**Objetivo:**
+Utilizar a modulação por largura de pulso (PWM) para controlar dispositivos.
+
+**Atividades:**
+1 - Controlar o brilho de um LED RGB
+    [Led_Control.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Led_Control.py)
 2 - Ajustar a velocidade de um motor DC (se disponível).
-3 - Criar um efeito de "respiração" com o LED [Respiração.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Respira%C3%A7%C3%A3o.py) .
+3 - Criar um efeito de "respiração" com o LED
+    [Respiração.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Respira%C3%A7%C3%A3o.py)
 
-**Comunicação serial**
-Objetivo: Implementar comunicação serial para enviar e receber informações.
-Atividades:
+##**Comunicação serial**
+
+**Objetivo:**
+Implementar comunicação serial para enviar e receber informações.
+
+**Atividades:**
 1 - Conectar e ler dados de um sensor de umidade e temperatura.
 2 - Exibir os dados no display OLED.
 3 - Enviar dados via serial ou Bluetooth (se disponível).
-(  [Bluetooth.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%205/Bluetooth.py) )
+    ([Bluetooth.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%205/Bluetooth.py) )
 
-**Introdução ao Uso de Displays**
-Objetivo: Aprender a utilizar displays para mostrar informações.
-Atividades:
+##**Introdução ao Uso de Displays**
+
+**Objetivo:**
+Aprender a utilizar displays para mostrar informações.
+
+**Atividades:**
 1 - Exibir texto e gráficos no display OLED.
 2 - Criar um relógio digital simples.
 
-**Trabalhando com protocolo I2c**
-Objetivo: Ler e se comunicar com sensores e atuadores fazendo uso de I2C.
-Atividades:
+##**Trabalhando com protocolo I2c**
+
+**Objetivo:**
+Ler e se comunicar com sensores e atuadores fazendo uso de I2C.
+
+**Atividades:**
 1 - Entender como funciona a comunicação via I2C.
 2 - Configurar leitura de sensores externos usando I2C.
 3 - Armazenar dados em uma memória externa.
 
-**Criação de Projetos Interativos**
-Objetivo: Desenvolver projetos que respondam a interações do usuário.
-Atividades:
+##**Criação de Projetos Interativos**
+
+**Objetivo:**
+Desenvolver projetos que respondam a interações do usuário.
+
+**Atividades:**
 1 - Criar um jogo simples utilizando botões e o display.
 2 - Desenvolver uma estação meteorológica que exibe dados de sensores.
 3 - Implementar um alarme que responde a mudanças ambientais.
 
-**Introdução à Programação Orientada a Objetos**
- Objetivo: Aplicar conceitos de programação orientada a objetos em MicroPython.
-Atividades:
+##**Introdução à Programação Orientada a Objetos**
+
+**Objetivo:**
+Aplicar conceitos de programação orientada a objetos em MicroPython.
+
+**Atividades:**
 1 - Criar classes para sensores e atuadores.
 2 - Organizar o código de forma modular.
 3 - Reutilizar código em diferentes projetos.
 
-**Projeto Final: Integração de Múltiplos Componentes**
-Objetivo: Integrar diversos componentes e conceitos aprendidos em um projeto final.
-Atividades:
+##**Projeto Final: Integração de Múltiplos Componentes**
+
+**Objetivo:**
+Integrar diversos componentes e conceitos aprendidos em um projeto final.
+
+**Atividades:**
 1 - Planejar e desenvolver um projeto que utilize múltiplos sensores, atuadores e displays.
 2 - Apresentar o projeto para a turma, explicando o funcionamento e o código.
 3 - Discutir possíveis melhorias e expansões para o projeto.
