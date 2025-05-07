@@ -20,17 +20,17 @@ O material é dividido em 10 tarefas, que contém atividades distribuidas da seg
 Abaixo tem-se um resumo breve das atividades:
 
 
-**Introdução à BitDogLab e ao MicroPython**
+## **Introdução à BitDogLab e ao MicroPython**
 
-Objetivo: Apresentar a BitDogLab e o ambiente de programação MicroPython.
+**Objetivo:**  
+Apresentar a BitDogLab e o ambiente de programação MicroPython.
 
-Atividades: 
-
-1 - Acender matriz de led
-2 - Escrever “ Hello BitDoglab!” na tela
-3 - Criar condições de troca de cor a partir dos botões
-([Lição 1.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%201/Li%C3%A7%C3%A3o%201.py))
-
+**Atividades:**  
+1. Acender matriz de LED  
+2. Escrever “Hello BitDoglab!” na tela  
+3. Criar condições de troca de cor a partir dos botões  
+   ([Lição 1.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%201/Li%C3%A7%C3%A3o%201.py))
+   
 **Entradas e Saídas Digitais**
 Objetivo: Compreender o funcionamento de entradas e saídas digitais.
 Atividades:
