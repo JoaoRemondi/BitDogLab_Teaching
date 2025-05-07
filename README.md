@@ -2,7 +2,7 @@
 
 Este repositório foi criado para armazenar códigos usados no ensino de programação em MicroPython, de forma didática e acessível. O objetivo é facilitar o aprendizado, fornecendo exemplos práticos e bem documentados para iniciantes e entusiastas da área.
 
-O material é dividido em 10 tarefas, cujo material é dividido da seguinte forma:
+O material é dividido em 10 tarefas, que contém atividades distribuidas da seguinte forma:
 | Tema | Atividades |
 |-------|-------|
 | Introdução à BitDogLab e ao MicroPython | [Lição 1.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%201/Li%C3%A7%C3%A3o%201.py) |
