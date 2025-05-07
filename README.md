@@ -21,8 +21,11 @@ Abaixo tem-se um resumo breve das atividades:
 
 
 **Introdução à BitDogLab e ao MicroPython**
+
 Objetivo: Apresentar a BitDogLab e o ambiente de programação MicroPython.
+
 Atividades: 
+
 1 - Acender matriz de led
 2 - Escrever “ Hello BitDoglab!” na tela
 3 - Criar condições de troca de cor a partir dos botões
