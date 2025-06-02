@@ -10,9 +10,9 @@ O material é dividido em 10 tarefas, que contém atividades distribuidas da seg
 | Introdução a Sensores Analógicos | [Buzzer.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Buzzer.py) <br> [Oled.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Oled.py) <br> [Sensores.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Sensores.py) |
 | Controle de Dispositivos com PWM | [Led_Control.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Led_Control.py) <br> [Respiração.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Respira%C3%A7%C3%A3o.py) |
 | Comunicação serial | [Bluetooth.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%205/Bluetooth.py) |
-| Uso de interrupções | _Em breve_ |
 | Introdução ao Uso de Displays | _Em breve_ |
 | Trabalhando com protocolo I2c | _Em breve_ |
+| Uso de interrupções | [Interruption_events.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/Interruption_events.py) <br> [semaforo_interrupcao.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/semaforo_interrupcao.py) |
 | Criação de Projetos Interativos | _Em breve_ |
 | Introdução à Programação Orientada a Objetos | _Em breve_ |
 | Projeto Final: Integração de Múltiplos Componentes | _Em breve_ |
@@ -108,7 +108,9 @@ Entender o funcionamento e uso de interrupções.
 **Atividades:**
 1. Entender o conceito de uma interrupção.
 2. Fazer uso de uma interrupção simples em um led.
-3. Repetir o funcionamento do semáforo da lição 2 usando interrupções.
+   [Interruption_events.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/Interruption_events.py)
+4. Repetir o funcionamento do semáforo da lição 2 usando interrupções.
+   [semaforo_interrupcao.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/semaforo_interrupcao.py)
 
 ## **Criação de Projetos Interativos**
 
