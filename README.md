@@ -10,6 +10,7 @@ O material é dividido em 10 tarefas, que contém atividades distribuidas da seg
 | Introdução a Sensores Analógicos | [Buzzer.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Buzzer.py) <br> [Oled.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Oled.py) <br> [Sensores.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Sensores.py) |
 | Controle de Dispositivos com PWM | [Led_Control.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Led_Control.py) <br> [Respiração.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Respira%C3%A7%C3%A3o.py) |
 | Comunicação serial | [Bluetooth.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%205/Bluetooth.py) |
+| Uso de interrupções | _Em breve_ |
 | Introdução ao Uso de Displays | _Em breve_ |
 | Trabalhando com protocolo I2c | _Em breve_ |
 | Criação de Projetos Interativos | _Em breve_ |
@@ -98,6 +99,16 @@ Ler e se comunicar com sensores e atuadores fazendo uso de I2C.
 1. Entender como funciona a comunicação via I2C.
 2. Configurar leitura de sensores externos usando I2C.
 3. Armazenar dados em uma memória externa.
+
+## **Uso de interrupções**
+
+**Objetivo:**
+Entender o funcionamento e uso de interrupções.
+
+**Atividades:**
+1. Entender o conceito de uma interrupção.
+2. Fazer uso de uma interrupção simples em um led.
+3. Repetir o funcionamento do semáforo da lição 2 usando interrupções.
 
 ## **Criação de Projetos Interativos**
 
