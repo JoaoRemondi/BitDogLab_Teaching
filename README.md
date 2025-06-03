@@ -87,8 +87,8 @@ Implementar comunicação serial para enviar e receber informações.
 Aprender a utilizar displays para mostrar informações.
 
 **Atividades:**
-1. Exibir texto e gráficos no display OLED.
-2. Criar um relógio digital simples.
+1. Exibir texto e gráficos no display OLED.[Plota Funcao.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%206/Plota%20fun%C3%A7%C3%A3o.py)
+2. Criar um relógio digital simples. [Relogio.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%206/Relogio.py)
 
 ## **Trabalhando com protocolo I2c**
 
