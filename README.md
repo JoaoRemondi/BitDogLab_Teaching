@@ -10,7 +10,7 @@ O material é dividido em 10 tarefas, que contém atividades distribuidas da seg
 | Introdução a Sensores Analógicos | [Buzzer.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Buzzer.py) <br> [Oled.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Oled.py) <br> [Sensores.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Sensores.py) |
 | Controle de Dispositivos com PWM | [Led_Control.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Led_Control.py) <br> [Respiração.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Respira%C3%A7%C3%A3o.py) |
 | Comunicação serial | [Bluetooth.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%205/Bluetooth.py) |
-| Introdução ao Uso de Displays | _Em breve_ |
+| Introdução ao Uso de Displays | [Plota Funcao.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%206/Plota%20fun%C3%A7%C3%A3o.py) <br>  [Relogio.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%206/Relogio.py)|
 | Trabalhando com protocolo I2c | _Em breve_ |
 | Uso de interrupções | [Interruption_events.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/Interruption_events.py) <br> [semaforo_interrupcao.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/semaforo_interrupcao.py) |
 | Criação de Projetos Interativos | _Em breve_ |
