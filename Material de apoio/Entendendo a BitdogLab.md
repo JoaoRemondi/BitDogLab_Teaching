@@ -6,7 +6,7 @@ A BitDogLab é uma placa desenvolvida no projeto de escola 4.0 da Unicamp. Possu
 
 A Raspberry Pi Pico na BitDog Lab é como o "cérebro" que dá vida aos projetos, controlando luzes, sons e sensores. Ela entende sinais elétricos e executa comandos que você programa, como um robô obedecendo ordens simples.
 
-![Raspberry](imagens/rasp_image.png)
+![Raspberry](Imagens/rasp_image.png)
 
 Aqui temos uma imagem do que é chamado de “pinagem” da Raspberry Pico Pi. Através dessas informações podemos entender o funcionamento básico de cada porta, as quais damos o nome de GPIO do inglês “General Purpose Input/Output”.
 
