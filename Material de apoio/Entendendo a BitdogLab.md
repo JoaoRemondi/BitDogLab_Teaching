@@ -38,7 +38,23 @@ Visto que o microcontrolador é como o “cérebro” da BitDogLab, os component
 
 É importante lembrar que esses componentes estão conectados a Raspberry Pico Pi, logo, além de falarmos de suas funções básicas teremos também uma descrição de suas conexões com o microcontrolador, por meio das GPIO’s. O estudo dessas conexões será importante para a programação futura da nossa BitDogLab.
 
-Tabela
+| **Componentes**   | **Ligações Raspberry**                            |
+|-------------------|---------------------------------------------------|
+| Display Oled      | GPIO 2 (SDA)  
+                    GPIO 3 (SCL)                                        |
+| Matriz Oled       | GPIO 7                                            |
+| Microfone         | GPIO 28                                           |
+| Joystick          | GPIO 26 (VRy)  
+                    GPIO 27 (VRx)  
+                    GPIO 22 (SW)                                        |
+| Botões            | Botão A: GPIO 10  
+                    Botão B: GPIO 5  
+                    Botão C: GPIO 6                                     |
+| Buzzers           | GPIO 21                                           |
+| LED RGB           | LED VERDE: GPIO 11  
+                    LED AZUL: GPIO 12  
+                    LED VERMELHO: GPIO 13                               |
+
 
 Demais conexões ficam disponíveis para uso e são conectadas para uso diverso.
 
