@@ -6,8 +6,6 @@ A BitDogLab é uma placa desenvolvida no projeto de escola 4.0 da Unicamp. Possu
 
 A Raspberry Pi Pico na BitDog Lab é como o "cérebro" que dá vida aos projetos, controlando luzes, sons e sensores. Ela entende sinais elétricos e executa comandos que você programa, como um robô obedecendo ordens simples.
 
-![Raspberry](Imagens/rasp_image.png)
-
 <p align="center">
   <img src="Imagens/rasp_image.png" alt="Raspberry" width="400">
 </p>
