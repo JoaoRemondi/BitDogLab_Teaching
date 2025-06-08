@@ -8,6 +8,11 @@ A Raspberry Pi Pico na BitDog Lab é como o "cérebro" que dá vida aos projetos
 
 ![Raspberry](Imagens/rasp_image.png)
 
+<p align="center">
+  <img src="Imagens/rasp_image.png" alt="Raspberry" width="400">
+</p>
+
+
 Aqui temos uma imagem do que é chamado de “pinagem” da Raspberry Pico Pi. Através dessas informações podemos entender o funcionamento básico de cada porta, as quais damos o nome de GPIO do inglês “General Purpose Input/Output”.
 
 Notasse que quase todas as entradas são GPIO’s as únicas que fogem a essa regra são as portas de GND (Ground do inglês “Chão”), 3V3, RUN, VBUS, VSYS, SWCLK e SWDIO. O uso de parte dessas portas é um pouco avançado mas pode ser resumido da seguinte forma:
