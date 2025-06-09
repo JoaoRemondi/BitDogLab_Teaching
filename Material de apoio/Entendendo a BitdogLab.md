@@ -1,6 +1,6 @@
 # Entendendo a BitDogLab
 
-A BitDogLab é uma placa desenvolvida no projeto de escola 4.0 da Unicamp. Possui como microcontrolador base um Raspberry, possuindo os modelos Pico Pi H ou W.
+A BitDogLab é uma placa desenvolvida no projeto de escola 4.0 da Unicamp. Possui como microcontrolador base um Raspberry, possuindo os modelos Pico Pi H ou W. Falaremos apenas do básico nesse documento.
 
 ## Raspberry Pico Pi
 
