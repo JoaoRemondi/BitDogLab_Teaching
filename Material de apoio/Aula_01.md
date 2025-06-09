@@ -14,8 +14,7 @@ Veja este caso específico:
 
 ```python
 from machine import Pin
-
----
+```
 
 
 Nesse caso estamos importando a função Pin que pertence a biblioteca machine. Essa função permitirá com possamos configurar os pinos da Raspberry como saídas ou entradas.
