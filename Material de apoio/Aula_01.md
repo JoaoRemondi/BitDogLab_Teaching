@@ -80,4 +80,4 @@ while (5>2):
   time.sleep(1) # espera 1 segundo
 ```
 
-Nesse caso, teriamos o mesmo efeito do código acima.
+Nesse caso, teriamos o mesmo efeito do antigo código.
