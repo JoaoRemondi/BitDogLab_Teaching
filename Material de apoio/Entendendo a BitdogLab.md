@@ -63,3 +63,4 @@ Um conector Insulation-Displacement Connector (IDC) box de 14 pinos é usado par
 A raspberry pico pi pode ser programada em 2 linguagens de programação. O micropython e o C. O C é uma das linguagens mais comuns de programação de microcontroladores e de outras aplicações, já foi amplamente usada na indústria. O micropython é uma linguagem  feita especialmente para rodar em microcontroladores, como a Raspberry Pi Pico.
 
 Para facilitar, será visto apenas micropython durante o aprendizado deste programa de estudos.
+A documentação dessa linguagem pode ser visualizada em sua página: https://docs.micropython.org/en/latest/
