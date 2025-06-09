@@ -55,7 +55,8 @@ Visto que o microcontrolador é como o “cérebro” da BitDogLab, os component
 
 Demais conexões ficam disponíveis para uso e são conectadas para uso diverso.
 
-Para uma comunicação SPI usamos os GPIO16 (RX), GPIO17(CSn), GPIO18 (SCK) e GPIO19 (TX) neste conector IDC. 
+Para uma comunicação SPI usamos os GPIO16 (RX), GPIO17(CSn), GPIO18 (SCK) e GPIO19 (TX) neste conector IDC.
+
 Um conector Insulation-Displacement Connector (IDC) box de 14 pinos é usado para expansão de hardware e está assim conectado com a Raspberry Pi Pico: pino 1 com o GND, pino 2 com o 5V, pino 3 com 3V3, pino 4 com GPIO8, pino 5 com o GPIO28, pino 6 com o GPIO9, pino 7 com GND analogico. pino 8 com o GPIO4, pino 9 com o GPIO17, pino 10 com o GND, pino 11 com o GPIO16, pino 12 com GPIO19, pino 13 com o GND, pino 14 com o GPIO18. É neste slot que conectamos as placas de extensão como a BitMovel Motor Driver ou LORA.
 
 ## Micropython e linguagens de programação
