@@ -67,7 +67,7 @@ while (1):
 
 - Por que o uso de "while(1)"?
 
-A estrutura while é uma estrutura que depende de lógica booleana em sua condição. Na lógica booleana só é possível obtermos 2 resposta, sendo elas verdadeiro (1) ou falso (0). Dessa forma, sempre que algo verdadeiro for estiver dentro do while ele executará o loop. Um exemplo engraçado é colocar uma verdade matemática no while, exemplo:
+A estrutura while é uma estrutura que depende de lógica booleana em sua condição. Na lógica booleana só é possível obtermos 2 resposta, sendo elas verdadeiro (1) ou falso (0). Dessa forma, sempre que algo verdadeiro estiver dentro do while ele executará o loop. Um exemplo engraçado é colocar uma verdade matemática no while, exemplo:
 
 ```python
 from machine import Pin  # Importa a função Pin para controlar os pinos da placa
