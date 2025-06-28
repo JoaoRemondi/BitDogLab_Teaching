@@ -1,6 +1,6 @@
 ## Aula 03: Buzzer
 
-Para utilizar o Buzzer não é necessário a nenhuma função externa, apenas a função da própria bitdoglab, a função PWM (Pulse Width Modulation – Modulação por Largura de Pulso. A função PWM ). Em vez de enviar um sinal analógico contínuo (o que a Raspberry Pi Pico não faz nativamente), o PWM liga e desliga rapidamente um pino digital em uma frequência fixa. 
+Para utilizar o Buzzer não é necessário a nenhuma função externa, apenas a função da própria Raspberry Pico Pi, a função PWM (Pulse Width Modulation – Modulação por Largura de Pulso. A função PWM ). Em vez de enviar um sinal analógico contínuo (o que a Raspberry Pi Pico não faz nativamente), o PWM liga e desliga rapidamente um pino digital em uma frequência fixa. 
 Essa função pode ser utilizada da seguinte forma:
 
 ```python
