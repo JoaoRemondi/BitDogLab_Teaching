@@ -31,6 +31,8 @@ for i in range(5)
 
 Nesse código o led acende e apaga 5 vezes com intervalos de 1 segundo.
 
+# Desafio
+
 O Desafio dessa aula é criar um semáforo/sinaleiro simples com as seguintes especificações:
 
 Funcionamento do semáforo:
