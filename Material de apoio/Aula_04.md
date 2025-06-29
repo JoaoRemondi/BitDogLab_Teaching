@@ -47,6 +47,7 @@ O segundo tipo de leitura é por interrupção programada. Esse tipo de leitura 
 
 Tomando ainda o exemplo do código anterior, vale ressaltar o uso do atraso de 0.2 segundos ao final da leitura, isso ocorre pois o botão é um elemento elétrico e, portanto, sujeito a flutuações quando faz contato com o condutor (fio). Essas flutuações podem levar a um erro do processador, que pode interpretar que o botão tenha sido acionado mais de uma vez.
 
+# Desafio
 
 O desafio dessa aula será utilizar os conhecimentos aprendidos para realizar a leitura de um botão e acender um led ao se pressionar o botão.
 
