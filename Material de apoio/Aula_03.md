@@ -31,7 +31,6 @@ while True:
   time.sleep(1) #tempo de 1 segundo
 ```
 
-O desafio dessa atividade é usar os conhecimentos obtidos para escrever um código que varra as frequências de 300 á 800 com um intervalo de 50 entre cada frequência. O tempo entre cada frequência será de 2 segundo. 
 
 É também possivel se obter algumas notas musicais alterando as frequências do buzzer. Na tabela abaixo existe alguns exemplos:
 
@@ -45,3 +44,7 @@ O desafio dessa atividade é usar os conhecimentos obtidos para escrever um cód
 | Mi (E)       | E5             | 659.26           |
 | Fá (F)       | F5             | 698.46           |
 | Sol (G)      | G5             | 783.99           |
+
+# Desafio
+
+O desafio dessa atividade é usar os conhecimentos obtidos para escrever um código que varra as frequências de 300 á 800 com um intervalo de 50 entre cada frequência. O tempo entre cada frequência será de 2 segundo. 
