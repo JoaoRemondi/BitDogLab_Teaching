@@ -5,3 +5,6 @@ Sensores são dispositivos eletrônicos capazes de converter grandezas físicas 
 Os sinais elétricos dos sensores são digitais (apenas dois estados como um botão ou um sensor de presença PIR) ou analógicos (variam continuamente, como o valor de tensão lido por um sensor de luz ou um sensor de temperatura interno). O tratamento do sinal varia de acordo com o tipo de sensor, sinais do tipo digital podem necessitar de protocolos de comunicação ou leitura de padrões, enquanto sinais analógicos vão normalmente depender do ADC (Conversor Analógico-Digital) do microcontrolador.
 
 Sinais digitais que demandam protocolos de comunicações serão vistos em aulas futuras, nessa aula o foco será em entender o funcionamento básico de sensores que usam um sinal analógico.
+
+# Leitura de um sensor
+
