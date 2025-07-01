@@ -48,4 +48,4 @@ Um sensor de temperatura muito simples de se usar é o Lm35. Seu uso será compl
 
 # Desafio
 
-Faça a montagem do sensor lm 35 e meça suas temperaturas.
+Faça a montagem do sensor lm35 e meça temperaturas temperaturas.
