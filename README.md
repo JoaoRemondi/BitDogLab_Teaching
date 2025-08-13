@@ -14,7 +14,6 @@ O material é dividido em 10 tarefas, que contém atividades distribuidas da seg
 | Trabalhando com protocolo I2c | _Em breve_ |
 | Uso de interrupções | [Interruption_events.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/Interruption_events.py) <br> [semaforo_interrupcao.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/semaforo_interrupcao.py) |
 | Criação de Projetos Interativos | _Em breve_ |
-| Introdução à Programação Orientada a Objetos | _Em breve_ |
 | Projeto Final: Integração de Múltiplos Componentes | _Em breve_ |
 
 
@@ -121,16 +120,6 @@ Desenvolver projetos que respondam a interações do usuário.
 1. Criar um jogo simples utilizando botões e o display.
 2. Desenvolver uma estação meteorológica que exibe dados de sensores.
 3. Implementar um alarme que responde a mudanças ambientais.
-
-## **Introdução à Programação Orientada a Objetos**
-
-**Objetivo:**
-Aplicar conceitos de programação orientada a objetos em MicroPython.
-
-**Atividades:**
-1. Criar classes para sensores e atuadores.
-2. Organizar o código de forma modular.
-3. Reutilizar código em diferentes projetos.
 
 ## **Projeto Final: Integração de Múltiplos Componentes**
 
