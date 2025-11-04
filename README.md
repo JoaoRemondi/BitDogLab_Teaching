@@ -1,133 +1,27 @@
-# BitDogLab_Teaching
+# Simulação da BitDogLab no Wokwi
 
-Este repositório foi criado para armazenar códigos usados no ensino de programação em MicroPython, de forma didática e acessível. O objetivo é facilitar o aprendizado, fornecendo exemplos práticos e bem documentados para iniciantes e entusiastas da área.
+Este repositório contém os materiais e códigos desenvolvidos como parte do Trabalho de Conclusão de Curso (TCC), cujo objetivo é criar uma simulação funcional da placa BitDogLab utilizando a plataforma Wokwi.
+O projeto busca oferecer um ambiente acessível para o ensino e a prática de sistemas embarcados, permitindo o uso da simulação tanto de forma independente quanto integrada ao website oficial da BitDogLab por meio de iframes.
 
-O material é dividido em 10 tarefas, que contém atividades distribuidas da seguinte forma:
-| Tema | Atividades |
-|-------|-------|
-| Introdução à BitDogLab e ao MicroPython | [Lição 1.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%201/Li%C3%A7%C3%A3o%201.py) |
-| Entradas e Saídas Digitais | [Botões.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Bot%C3%B5es.py) <br> [Buzzers.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Buzzers.py) <br> [Semáforo.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Sem%C3%A1foro.py) |
-| Introdução a Sensores Analógicos | [Buzzer.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Buzzer.py) <br> [Oled.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Oled.py) <br> [Sensores.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Sensores.py) |
-| Controle de Dispositivos com PWM | [Led_Control.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Led_Control.py) <br> [Respiração.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Respira%C3%A7%C3%A3o.py) |
-| Comunicação serial | [Bluetooth.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%205/Bluetooth.py) |
-| Introdução ao Uso de Displays | [Plota Funcao.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%206/Plota%20fun%C3%A7%C3%A3o.py) <br>  [Relogio.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%206/Relogio.py)|
-| Trabalhando com protocolo I2c | _Em breve_ |
-| Uso de interrupções | [Interruption_events.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/Interruption_events.py) <br> [semaforo_interrupcao.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/semaforo_interrupcao.py) |
-| Criação de Projetos Interativos | _Em breve_ |
-| Projeto Final: Integração de Múltiplos Componentes | _Em breve_ |
+## **Estrutura do repositório**
 
+**Códigos**
+Contém todos os arquivos relacionados ao desenvolvimento e funcionamento da simulação.
+Nesta pasta estão incluídos:
 
-Abaixo tem-se um resumo breve das atividades:
+Extensão do Wokwi: scripts e exemplos utilizados para a integração entre o Visual Studio Code e a plataforma Wokwi.
+Web Development: exemplos e arquivos que demonstram o uso da técnica de iframe para incorporar simulações do Wokwi diretamente em páginas web.
 
+## **Material de apoio**
 
-## **Introdução à BitDogLab e ao MicroPython**
+Reúne tutoriais, guias e materiais complementares voltados ao uso das ferramentas e funcionalidades abordadas neste projeto.
+Nesta pasta estão incluídos:
 
-**Objetivo:**  
-Apresentar a BitDogLab e o ambiente de programação MicroPython.
+Guias de utilização da extensão do Wokwi no VS Code;
+Instruções sobre como embutir e personalizar simulações por iframe;
 
-**Atividades:**  
-1. Acender matriz de LED  
-2. Escrever “Hello BitDoglab!” na tela  
-3. Criar condições de troca de cor a partir dos botões  
-   ([Lição 1.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%201/Li%C3%A7%C3%A3o%201.py))
-   
-## **Entradas e Saídas Digitais**
+## **Tecnologias utilizadas**
 
-**Objetivo:**  
-Compreender o funcionamento de entradas e saídas digitais.
-
-**Atividades:**  
-1. Ler o estado de um botão  
-   [Botões.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Bot%C3%B5es.py)  
-2. Controlar um buzzer para emitir sons  
-   [Buzzers.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Buzzers.py)  
-3. Combinar botões e LEDs para criar um semáforo simples  
-   [Semáforo.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%202/Sem%C3%A1foro.py)
-
-## **Introdução a Sensores Analógicos**
-
-**Objetivo:**  
-Aprender a ler valores de sensores analógicos.
-
-**Atividades:**  
-1. Conectar e ler valores de um sensor de temperatura  
-   [Buzzer.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Buzzer.py)  
-2. Exibir os valores no display OLED  
-   [Oled.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Oled.py)  
-3. Criar um alerta sonoro quando a temperatura ultrapassar um limite  
-   [Sensores.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%203/Sensores.py)
-
-## **Controle de Dispositivos com PWM**
-
-**Objetivo:**
-Utilizar a modulação por largura de pulso (PWM) para controlar dispositivos.
-
-**Atividades:**
-1. Controlar o brilho de um LED RGB
-   [Led_Control.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Led_Control.py)
-2. Ajustar a velocidade de um motor DC (se disponível).
-3. Criar um efeito de "respiração" com o LED
-   [Respiração.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%204/Respira%C3%A7%C3%A3o.py)
-
-## **Comunicação serial**
-
-**Objetivo:**
-Implementar comunicação serial para enviar e receber informações.
-
-**Atividades:**
-1. Conectar e ler dados de um sensor de umidade e temperatura.
-2. Exibir os dados no display OLED.
-3. Enviar dados via serial ou Bluetooth (se disponível).
-   ([Bluetooth.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%205/Bluetooth.py) )
-
-## **Introdução ao Uso de Displays**
-
-**Objetivo:**
-Aprender a utilizar displays para mostrar informações.
-
-**Atividades:**
-1. Exibir texto e gráficos no display OLED.[Plota Funcao.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%206/Plota%20fun%C3%A7%C3%A3o.py)
-2. Criar um relógio digital simples. [Relogio.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%206/Relogio.py)
-
-## **Trabalhando com protocolo I2c**
-
-**Objetivo:**
-Ler e se comunicar com sensores e atuadores fazendo uso de I2C.
-
-**Atividades:**
-1. Entender como funciona a comunicação via I2C.
-2. Configurar leitura de sensores externos usando I2C.
-3. Armazenar dados em uma memória externa.
-
-## **Uso de interrupções**
-
-**Objetivo:**
-Entender o funcionamento e uso de interrupções.
-
-**Atividades:**
-1. Entender o conceito de uma interrupção.
-2. Fazer uso de uma interrupção simples em um led.
-   [Interruption_events.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/Interruption_events.py)
-4. Repetir o funcionamento do semáforo da lição 2 usando interrupções.
-   [semaforo_interrupcao.py](https://github.com/JoaoRemondi/BitDogLab_Teaching/blob/main/C%C3%B3digos/Li%C3%A7%C3%A3o%208/semaforo_interrupcao.py)
-
-## **Criação de Projetos Interativos**
-
-**Objetivo:**
-Desenvolver projetos que respondam a interações do usuário.
-
-**Atividades:**
-1. Criar um jogo simples utilizando botões e o display.
-2. Desenvolver uma estação meteorológica que exibe dados de sensores.
-3. Implementar um alarme que responde a mudanças ambientais.
-
-## **Projeto Final: Integração de Múltiplos Componentes**
-
-**Objetivo:**
-Integrar diversos componentes e conceitos aprendidos em um projeto final.
-
-**Atividades:**
-1. Planejar e desenvolver um projeto que utilize múltiplos sensores, atuadores e displays.
-2. Apresentar o projeto para a turma, explicando o funcionamento e o código.
-3. Discutir possíveis melhorias e expansões para o projeto.
-
+Wokwi – plataforma online para simulação de circuitos e microcontroladores.
+Visual Studio Code – ambiente de desenvolvimento integrado (IDE) utilizado para edição e depuração dos códigos.
+Extensão Wokwi para VS Code – integração entre o editor e o simulador, permitindo testes locais e execução direta.
