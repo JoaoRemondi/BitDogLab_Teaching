@@ -1,4 +1,4 @@
-Guia de uso da extensão do Wokwi para VS Code
+## Guia de uso da extensão do Wokwi para VS Code
 
 Este guia apresenta o passo a passo para instalar, configurar e utilizar a extensão do Wokwi no Visual Studio Code (VS Code), permitindo simular projetos de microcontroladores diretamente do ambiente de desenvolvimento.
 
