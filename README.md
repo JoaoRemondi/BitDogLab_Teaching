@@ -6,6 +6,7 @@ O projeto busca oferecer um ambiente acessível para o ensino e a prática de si
 ## **Estrutura do repositório**
 
 ##**Códigos**
+
 Contém todos os arquivos relacionados ao desenvolvimento e funcionamento da simulação.
 Nesta pasta estão incluídos:
 
