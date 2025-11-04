@@ -26,7 +26,7 @@ Antes de começar, certifique-se de ter instalado:
 
 4. Selecione a extensão “Wokwi Simulator” e clique em Install.
 
-💡 Dica: Após a instalação, você verá um novo ícone do Wokwi na barra lateral do VS Code.
+Dica: Após a instalação, você verá um novo ícone do Wokwi na barra lateral do VS Code.
 
 ## ** Configuração de chave Wokwi**
 
@@ -43,6 +43,9 @@ Essa etapa costuma ser simples, pois logo ao abrir a extensão ou algum document
 
 A estrutura de uma simulação no Wokwi deve seguir a seguinte lógica:
 
+<p align="center">
+  <img src="Imagens/Estrutura_Wokwi.png" alt="Raspberry" width="400">
+</p>
 (Imagem da estrutura do projeto no Wokwi)
 
 A estrutura da simulação pode ser visualizada na pasta [Codigos\Wokwi](https://github.com/JoaoRemondi/BitDogLab_Teaching/tree/main/C%C3%B3digos/Wokwi)
@@ -59,6 +62,9 @@ Essa estrutura contém:
 
 **Wokwi.toml:** Essa parte é importante, pois ela dita como a simulação deve ser interpretada pela API do Wokwi.
 
+<p align="center">
+  <img src="Imagens/Wokwi_toml.png" alt="Raspberry" width="400">
+</p>
 (Imagem do Wokwi.toml)
 
 Como dito o arquivo Wokwi.toml é importante pois ele gera a interação entre o Wokwi e os códigos. O segredo para a execução da simulação está exatamente nesta parte, devido a problemas relacionados a própria API do Wokwi com simulações em micropython, há problemas na inicialização da simulação, portanto, é necessário uma pequena modificação do arquivo Wokwi.toml colocando uma porta de servidor "rfc2217ServerPort = 4000" que será utilizada em conjunto com comandos em python para iniciar a simulação. Também é no Wokwi.toml que o firmware da placa "BitDogLab.uf2" é refenciado.
