@@ -49,15 +49,15 @@ A estrutura da simulação pode ser visualizada na pasta [Codigos\Wokwi](https:/
 
 Essa estrutura contém:
 
-**BitDogLab.uf2: ** Firmware oficial da BitDogLab
+**BitDogLab.uf2:** Firmware oficial da BitDogLab
 
-**Diagrama.json: ** Contém o diagrama em javascript do modelo de simulação da BitDogLab 
+**Diagrama.json:** Contém o diagrama em javascript do modelo de simulação da BitDogLab 
 
-**main.py: ** É o código que será executado na simulação da placa
+**main.py:** É o código que será executado na simulação da placa
 
-**Wokwi.code-workspace: ** Código que dá hierarquia ao workspace
+**Wokwi.code-workspace:** Código que dá hierarquia ao workspace
 
-**Wokwi.toml: ** Essa parte é importante, pois ela dita como a simulação deve ser interpretada pela API do Wokwi.
+**Wokwi.toml:** Essa parte é importante, pois ela dita como a simulação deve ser interpretada pela API do Wokwi.
 
 (Imagem do Wokwi.toml)
 
