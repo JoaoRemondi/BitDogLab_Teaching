@@ -75,9 +75,9 @@ Passos para  execução:
 
 3. Para carregar o main.py é necessário abrir um novo terminal no Visual studio code e executar o seguinte comando: 
 
-python -m mpremote connect
+    python -m mpremote connect
 
-port:rfc2217://localhost:4000 run main.py
+    port:rfc2217://localhost:4000 run main.py
 
 Após isso a simulação deve iniciar normalmente.
 
