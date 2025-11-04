@@ -28,7 +28,7 @@ Antes de começar, certifique-se de ter instalado:
 
 Dica: Após a instalação, você verá um novo ícone do Wokwi na barra lateral do VS Code.
 
-## ** Configuração de chave Wokwi**
+## **Configuração de chave Wokwi**
 
 Essa etapa costuma ser simples, pois logo ao abrir a extensão ou algum documento que faz uso da extensão do Wokwi uma janela de configuração de chave aparece, então basta clicar nela que você será direcionado diretamente para o site da plataforma Wokwi. Mas caso essea janela não apareça, essas são as etapas a serem seguidas: 
 
