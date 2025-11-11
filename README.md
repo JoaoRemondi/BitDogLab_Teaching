@@ -41,3 +41,5 @@ Instruções sobre como embutir e personalizar simulações por iframe;
 **Orientador:** Fabiano Fruett
 
 **Coorientadora:** Francine Menezes
+
+Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC/UNICAMP
