@@ -28,6 +28,8 @@ Instruções sobre como embutir e personalizar simulações por iframe;
 
 Essa pasta contém os arquivos base para usar o recurso github pages, que permite fazer a hospedagem de um site exemplo no github. Essa pasta contém um exemplo prático do teste de simulação web da placa BitDogLab
 
+É possível checar o exemplo em https://joaoremondi.github.io/BitDogLab_Teaching
+
 ## **Tecnologias utilizadas**
 
 **Wokwi** – plataforma online para simulação de circuitos e microcontroladores.
