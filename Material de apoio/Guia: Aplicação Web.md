@@ -67,6 +67,7 @@ Obs: Essa ferramenta de aplicação web ainda é experimental, e portanto ela se
 
 Sua estrutura base é:
 
+```javascript
 import { MessagePortTransport } from './message-port-transport.js';
 import { WokwiClient } from './wokwi-client.js';
 
@@ -99,9 +100,12 @@ window.addEventListener('message', (event) => {
   });
 });
 console.log('Wokwi ESP32 MicroPython script loaded');
+```
 
 Restante da estrutura e suas funções:
 
 **base64:** Conversor de dados binários.
+
 **wokwi-client:** Base do canal de comunicação por iframe.
+
 **message-port-transport:** Interpreta comandos e respostas enviadas e recebidas, conversando na “linguagem” do simulador.
