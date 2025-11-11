@@ -108,4 +108,12 @@ Restante da estrutura e suas funções:
 
 **wokwi-client:** Base do canal de comunicação por iframe.
 
-**message-port-transport:** Interpreta comandos e respostas enviadas e recebidas, conversando na “linguagem” do simulador.
+**message-port-transport:** Interpreta comandos e respostas enviadas e recebidas do servidor Wokwi.
+
+## **Simulando**
+
+Para simular usando a extensão Live Server, basta ter a estrutura em uma pasta e então clicar no arquivo index.html com o botão direito do mouse selecionando a opção "Open with Live Server". Isso fará que a simulação seja aberta no navegador principal da máquina.
+
+<p align="center">
+  <img src="Imagens/LiveServer.png" alt="LiveServer" width="400">
+</p>
