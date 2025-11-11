@@ -120,4 +120,4 @@ Para simular usando a extensão Live Server, basta ter a estrutura em uma pasta 
 
 ## **Considerações**
 
-Essa simulação pode ser hospedada em qualquer servidor e portanto o uso da extensão Live Server é apenas para testes locais. Um exemplo prático da simulaçao em um site web pode ser visto em https://joaoremondi.github.io/BitDogLab_Teaching
+Essa simulação pode ser hospedada em qualquer servidor e portanto o uso da extensão Live Server é apenas para testes locais. Um exemplo prático da simulaçao em um servidor não local pode ser visto em https://joaoremondi.github.io/BitDogLab_Teaching
