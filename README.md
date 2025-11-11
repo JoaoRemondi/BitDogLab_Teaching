@@ -31,3 +31,13 @@ Instruções sobre como embutir e personalizar simulações por iframe;
 **Visual Studio Code** – ambiente de desenvolvimento integrado (IDE) utilizado para edição e depuração dos códigos.
 
 **Extensão Wokwi para VS Code** – integração entre o editor e o simulador, permitindo testes locais e execução direta.
+
+## **Sobre**
+
+**Trabalho de conclusão de curso:** Ambiente de simulação para a placa BitDogLab usando a plataforma Wokwi
+
+**Autor:** João Pedro Remondi e Sousa
+
+**Orientador:** Fabiano Fruett
+
+**Coorientadora:** Francine Menezes
