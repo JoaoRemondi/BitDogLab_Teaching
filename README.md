@@ -24,6 +24,10 @@ Guias de utilização da extensão do Wokwi no VS Code;
 
 Instruções sobre como embutir e personalizar simulações por iframe;
 
+## **docs**
+
+Essa pasta contém os arquivos base para usar o recurso github pages, que permite fazer a hospedagem de um site exemplo no github. Essa pasta contém um exemplo prático do teste de simulação web da placa BitDogLab
+
 ## **Tecnologias utilizadas**
 
 **Wokwi** – plataforma online para simulação de circuitos e microcontroladores.
