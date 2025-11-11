@@ -42,4 +42,4 @@ Instruções sobre como embutir e personalizar simulações por iframe;
 
 **Coorientadora:** Francine Menezes
 
-Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC/UNICAMP
+*Faculdade de Engenharia Elétrica e de Computação da Universidade Estadual de Campinas - FEEC/UNICAMP*
