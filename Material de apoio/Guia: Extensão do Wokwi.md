@@ -57,6 +57,8 @@ Essa estrutura contém:
 
 **main.py:** É o código que será executado na simulação da placa
 
+**ssd1306:** Biblioteca da tela Oled
+
 **Wokwi.code-workspace:** Código que dá hierarquia ao workspace
 
 **Wokwi.toml:** Essa parte é importante, pois ela dita como a simulação deve ser interpretada pela API do Wokwi.
@@ -75,11 +77,14 @@ Passos para  execução:
 
 3. Para carregar o main.py é necessário abrir um novo terminal no Visual studio code e executar o seguinte comando: 
 
-    python -m mpremote connect
+    python -m mpremote connect port:rfc2217://localhost:4000 cp ssd1306.py :ssd1306.py
 
-    port:rfc2217://localhost:4000 run main.py
+    python -m mpremote connect port:rfc2217://localhost:4000 cp main.py :main.py
 
-Após isso a simulação deve iniciar normalmente.
+    python -m mpremote connect port:rfc2217://localhost:4000 exec "import main"
+
+
+Esses comandos são responsáveis por carregar no servidor do Wokwi. Após isso a simulação deve iniciar normalmente.
 
 ## **Problemas comuns**
 
