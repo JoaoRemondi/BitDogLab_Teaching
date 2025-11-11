@@ -53,4 +53,6 @@ Essa etapa costuma ser simples, pois logo ao abrir a extensão ou algum document
 
 A aplicação Web utiliza um arquivo index.html que embute o simulador do Wokwi através de um iframe, permitindo a visualização e interação direta com a simulação dentro de uma página Web. Esse modelo é útil para integrar a BitDogLab virtual em sites educacionais, repositórios ou materiais didáticos.
 
-
+<p align="center">
+  <img src="Imagens/Estrutura_WebDevelopment.png" alt="EstruturaWebDevelopment" width="400">
+</p>
