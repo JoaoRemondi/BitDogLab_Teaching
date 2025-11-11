@@ -14,6 +14,8 @@ Nesta pasta estão incluídos:
 
 **Web Development:** exemplos e arquivos que demonstram o uso da técnica de iframe para incorporar simulações do Wokwi diretamente em páginas web.
 
+**Exemplos:** alguns exemplos de códigos que podem ser utilizados para testes da simulação da placa BitDogLab
+
 ## **Material de apoio**
 
 Reúne tutoriais, guias e materiais complementares voltados ao uso das ferramentas e funcionalidades abordadas neste projeto.
